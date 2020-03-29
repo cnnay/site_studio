@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#header{
+    width: 100vw;
+    height: 250px;
+    background-color: brown;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+
+#carrosel_inicial{
+    width: 100vw;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
